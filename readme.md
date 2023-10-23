@@ -1,6 +1,6 @@
 # cmu15468 lecture and assign
 ## environment 
-
+teset
 ### 1.1 raw image conversion 
 1. download dcraw from [dcraw](https://www.easyhdr.com/download/dcraw/)
 2. execute dcraw.exe -4 -d -v -T .\campus.nef
